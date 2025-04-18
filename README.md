@@ -1,5 +1,5 @@
 
-### 👋 Hey there! I'm Akhil Krishna R
+### 👋 Hey there! I'm Akhil :)
 
 I'm an astrophysicist turned data scientist — basically, I spend a lot of time wrangling galaxies and gigabytes. I recently wrapped up my PhD at Christ University, where I studied how galaxies form and evolve using data from telescopes like **UVIT**, **JWST**, **HST**, **CFHT**, and **DECaLS**, and simulations from the likes of **TNG50**.
 
