@@ -38,9 +38,7 @@ I love building data pipelines, visualizing cosmic structures, and throwing mach
 ---
 
 ### 🌌 Fun Stuff
-- 💬 I’ve published in journals like *ApJ*, *MNRAS*, and *A&A*
-- 🌏 Presented my work in **Japan** and **Australia**
-- 🎮 When I’m not coding or stargazing, you’ll find me gaming, movie-watching, or geeking out over new tech
+- 🎮 When I’m not coding or stargazing, you’ll find me gaming or movie-watching.
 
 ---
 
