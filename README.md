@@ -1,7 +1,7 @@
 
 ### 👋 Hey there! I'm Akhil :)
 
-I'm an astrophysicist and data scientist — basically, I spend a lot of time wrangling galaxies and gigabytes. I recently wrapped up my PhD at Christ University, where I studied how galaxies form and evolve using data from telescopes like **UVIT**, **JWST**, **HST**, **CFHT**, and **DECaLS**, and simulations from the likes of **TNG50**.
+I'm an astrophysicist and data scientist — basically, I spend a lot of time wrangling galaxies and gigabytes. 
 
 I love building data pipelines, visualizing cosmic structures, and throwing machine learning at high-dimensional problems (sometimes it even works 😄). I'm most comfortable in **Python**, but I’ve also dabbled in **C/C++**, **R**, and a bit of **Bash scripting**.
 
