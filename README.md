@@ -37,11 +37,6 @@ I love building data pipelines, visualizing cosmic structures, and throwing mach
 
 ---
 
-### 🌌 Fun Stuff
-- 🎮 When I’m not coding or stargazing, you’ll find me gaming or movie-watching.
-
----
-
 ### 📫 Let’s connect
 - 🌐 [Website](https://sites.google.com/res.christuniversity.in/akhilkrishnar/about)  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/akhilkrishnar)  
@@ -50,9 +45,6 @@ I love building data pipelines, visualizing cosmic structures, and throwing mach
 - ✉️ akhilkrishna219@gmail.com  
 
 ---
-
-If you're into galaxies, data, and writing clean code — we should definitely chat 🚀
-
 --
 
 ![GitHub followers](https://img.shields.io/github/followers/akhilkrishnar0?style=social)
