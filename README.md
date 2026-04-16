@@ -3,7 +3,6 @@
 
 I'm an astrophysicist and data scientist — basically, I spend a lot of time wrangling galaxies and gigabytes. 
 
-I love building data pipelines, visualizing cosmic structures, and throwing machine learning at high-dimensional problems (sometimes it even works 😄). I'm most comfortable in **Python**, but I’ve also dabbled in **C/C++**, **R**, and a bit of **Bash scripting**.
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/akhilkrishnar0?style=social)
@@ -23,14 +22,6 @@ I love building data pipelines, visualizing cosmic structures, and throwing mach
 
 ---
 
-### 🛠️ What I Do
-- 🔭 Analyze multi-wavelength telescope data (UV to IR)
-- 🤖 Apply ML for galaxy classification & modeling
-- 🧪 Build reproducible analysis pipelines for large datasets
-- 🧠 Explore simulations to understand galaxies
-- 📈 Visualize complex data in clean, intuitive plots
-
----
 
 ### 💻 Tech I Like Using
 `Python` | `Astropy` | `APLpy` | `Scikit-learn` | `Matplotlib` | `CIGALE` | `Pandas` | `DS9` | `Git` | `Jupyter` | `Ubuntu`
