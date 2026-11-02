@@ -3,6 +3,8 @@
 
 I'm an astrophysicist and data scientist — basically, I spend a lot of time wrangling galaxies and gigabytes. 
 
+**Personal academic website:** [akhilkrishnar0.github.io](https://akhilkrishnar0.github.io/)
+
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/akhilkrishnar0?style=social)
@@ -29,7 +31,7 @@ I'm an astrophysicist and data scientist — basically, I spend a lot of time wr
 ---
 
 ### 📫 Let’s connect
-- 🌐 [Website](https://sites.google.com/res.christuniversity.in/akhilkrishnar/about)  
+- 🌐 [Website](https://akhilkrishnar0.github.io/)  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/akhilkrishnar)  
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=iZ4hiU8AAAAJ&hl=en)  
 - 💻 [GitHub](https://github.com/akhilkrishnar0)  
